@@ -1,0 +1,25 @@
+# Arquivos de configuração da IDE
+.vscode/
+*.iml
+
+# Pastas e arquivos gerados automaticamente
+bin/
+out/
+*.class
+
+# Logs e arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências externas (se aplicável)
+lib/
+node_modules/
+
+# Configurações pessoais/sensíveis
+*.env
+settings.json
